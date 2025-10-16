@@ -1,0 +1,4 @@
+npm create vite@latest PixelQR-QR-Generator
+npm install tailwindcss @tailwindcss/vite
+npm install react-icons
+npm install i18next react-i18next -> Language - Localization
